@@ -811,6 +811,7 @@ a:focus {
 
 .team .team-img {
     position: relative;
+    object-fit: cover;
 }
 
 .team .team-img img {
