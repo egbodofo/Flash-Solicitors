@@ -823,6 +823,7 @@ a:focus {
     padding: 50px 15px 30px 15px;
     text-align: center;
     background: #121518;
+    height: 210.391px !important;
 }
 
 .team .team-text h2 {
